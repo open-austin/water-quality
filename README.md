@@ -1,10 +1,15 @@
 # Austin Creeks Water Quality
 
+### The problem:
+It is hard to know when swimming spots and other recreational areas are dangerous to health because of bacteria or other safety hazards.
+
 Here is a link to the original [project proposal](https://github.com/open-austin/project-ideas/issues/74).
 
-_This is an infant project. [Create an issue](https://github.com/open-austin/water-quality/issues/new) if you have ideas and comment on any [open issues](https://github.com/open-austin/water-quality/issues/) if you have interest in contributing._
+_This is an infant project._ 
 
-## Program Architecture
+**[Create an issue](https://github.com/open-austin/water-quality/issues/new) if you have ideas and comment on any [open issues](https://github.com/open-austin/water-quality/issues/) if you have interest in contributing.**
+
+## Potenial Program Architecture
 
 These smaller pieces could be seperate services or part of one application that does the whole thing. Here are some ideas:
 
